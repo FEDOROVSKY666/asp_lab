@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model lr_fifteen.Models.UrlModel
+
+<form method="post" asp-controller="CheckUrl">
+    <div class="mb-3">
+        <label asp-for="Url" class="form-label">Enter URL</label>
+        <input type="url" class="form-control" id="urlInput" asp-for="Url" placeholder="https://example.com" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Check Availability</button>
+</form>
+

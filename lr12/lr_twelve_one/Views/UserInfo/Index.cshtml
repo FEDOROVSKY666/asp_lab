@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+@model List<lr_twelve_one.Models.User>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<div style="height: 100vh; width: 100vw; display: flex; flex-direction: column; gap: 3.5vh; align-items: center; justify-content: center">
+    <h1>User List</h1>
+    <a asp-action="Create">Add User</a>
+    <table class="table">
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <form method="post" asp-action="Update" asp-route-id="@item.Id">
+                    <td>
+                        <input type="text" name="FirstName" value="@item.FirstName" />
+                    </td>
+                    <td>
+                        <input type="text" name="LastName" value="@item.LastName" />
+                    </td>
+                    <td>
+                        <input type="number" name="Age" value="@item.Age" />
+                    </td>
+                    <td>
+                        <button type="submit">Update</button>
+                    </td>
+                </form>
+                <form method="post" asp-action="Delete" asp-route-id="@item.Id">
+                    <td>
+                        <button type="submit">Delete</button>
+                    </td>
+                </form>
+            </tr>
+        }
+    </table>
+</div>

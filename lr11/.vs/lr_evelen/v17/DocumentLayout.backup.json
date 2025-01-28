@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp code\\ASP.NET-lr_eleven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|d:\\asp code\\asp.net-lr_eleven\\views\\redirection\\picture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|solutionrelative:views\\redirection\\picture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|d:\\asp code\\asp.net-lr_eleven\\views\\redirection\\someinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|solutionrelative:views\\redirection\\someinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|d:\\asp code\\asp.net-lr_eleven\\lr_evelen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|solutionrelative:lr_evelen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|d:\\asp code\\asp.net-lr_eleven\\filters\\useracitionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|solutionrelative:filters\\useracitionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|d:\\asp code\\asp.net-lr_eleven\\views\\redirection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|solutionrelative:views\\redirection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|d:\\asp code\\asp.net-lr_eleven\\filters\\uniqueuserfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|solutionrelative:filters\\uniqueuserfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|d:\\asp code\\asp.net-lr_eleven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|d:\\asp code\\asp.net-lr_eleven\\controllers\\redirectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084745DB-5D4C-4C6C-802C-9CFD21393ACD}|lr_evelen.csproj|solutionrelative:controllers\\redirectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniqueUserFilter.cs",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_eleven\\Filters\\UniqueUserFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\UniqueUserFilter.cs",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_eleven\\Filters\\UniqueUserFilter.cs",
+              "RelativeToolTip": "Filters\\UniqueUserFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:01:58.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAcitionFilter.cs",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_eleven\\Filters\\UserAcitionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\UserAcitionFilter.cs",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_eleven\\Filters\\UserAcitionFilter.cs",
+              "RelativeToolTip": "Filters\\UserAcitionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:34:49.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lr_evelen.csproj",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_eleven\\lr_evelen.csproj",
+              "RelativeDocumentMoniker": "lr_evelen.csproj",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_eleven\\lr_evelen.csproj",
+              "RelativeToolTip": "lr_evelen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T12:34:22.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SomeInfo.cshtml",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_eleven\\Views\\Redirection\\SomeInfo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Redirection\\SomeInfo.cshtml",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_eleven\\Views\\Redirection\\SomeInfo.cshtml",
+              "RelativeToolTip": "Views\\Redirection\\SomeInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:30:03.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Picture.cshtml",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_eleven\\Views\\Redirection\\Picture.cshtml",
+              "RelativeDocumentMoniker": "Views\\Redirection\\Picture.cshtml",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_eleven\\Views\\Redirection\\Picture.cshtml",
+              "RelativeToolTip": "Views\\Redirection\\Picture.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:29:14.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_eleven\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_eleven\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:28:23.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_eleven\\Views\\Redirection\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Redirection\\Index.cshtml",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_eleven\\Views\\Redirection\\Index.cshtml",
+              "RelativeToolTip": "Views\\Redirection\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:25:10.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedirectionController.cs",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_eleven\\Controllers\\RedirectionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RedirectionController.cs",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_eleven\\Controllers\\RedirectionController.cs",
+              "RelativeToolTip": "Controllers\\RedirectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:22:06.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

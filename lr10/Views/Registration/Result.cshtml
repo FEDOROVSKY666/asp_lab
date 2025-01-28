@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Result";
+}
+
+@model lr_ten.Models.RegistrationViewModel
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Date</th>
+        <th>Subject</th>
+    </tr>
+    <tr>
+        <td>@Model.Name</td>
+        <td>@Model.Email</td>
+        <td>@Model.ConsultationDate</td>
+        <td>@Model.Subject</td>
+    </tr>
+</table>
+<div class="text-center mt-3">
+    <a type="submit" class="btn btn-primary btn-lg" href="/Registration">Back</a>
+</div>

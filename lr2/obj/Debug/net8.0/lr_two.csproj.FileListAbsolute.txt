@@ -1,0 +1,90 @@
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\appsettings.Development.json
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\appsettings.json
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\testConfiguration.json
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\lr_two.exe
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\lr_two.deps.json
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\lr_two.runtimeconfig.json
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\lr_two.dll
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\lr_two.pdb
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.GeneratedMSBuildEditorConfig.editorconfig
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.AssemblyInfoInputs.cache
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.AssemblyInfo.cs
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.csproj.CoreCompileInputs.cache
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.MvcApplicationPartsAssemblyInfo.cache
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.sourcelink.json
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\staticwebassets.build.json
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\staticwebassets.development.json
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.lr_two.Microsoft.AspNetCore.StaticWebAssets.props
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.build.lr_two.props
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lr_two.props
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lr_two.props
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\staticwebassets.pack.json
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\scopedcss\bundle\lr_two.styles.css
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.dll
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\refint\lr_two.dll
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.pdb
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\lr_two.genruntimeconfig.cache
+D:\5 SEMESTR\ASP.NET\lr_two\obj\Debug\net8.0\ref\lr_two.dll
+D:\5 SEMESTR\ASP.NET\lr_two\bin\Debug\net8.0\authorInfo.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\appsettings.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\testConfiguration.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\authorInfo.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\lr_two.staticwebassets.endpoints.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\lr_two.exe
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\lr_two.deps.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\lr_two.runtimeconfig.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\lr_two.dll
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\bin\Debug\net8.0\lr_two.pdb
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\lr_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\lr_two.AssemblyInfoInputs.cache
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\lr_two.AssemblyInfo.cs
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\lr_two.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\lr_two.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\scopedcss\bundle\lr_two.styles.css
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets\msbuild.lr_two.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets\msbuild.lr_two.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets\msbuild.build.lr_two.props
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lr_two.props
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lr_two.props
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\lr_two.dll
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\refint\lr_two.dll
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\lr_two.pdb
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\lr_two.genruntimeconfig.cache
+C:\Users\Alexandr\OneDrive\Рабочий стол\asp code\ASP.NET-lr_two\obj\Debug\net8.0\ref\lr_two.dll
+D:\asp code\lr_two\bin\Debug\net8.0\appsettings.Development.json
+D:\asp code\lr_two\bin\Debug\net8.0\appsettings.json
+D:\asp code\lr_two\bin\Debug\net8.0\authorInfo.json
+D:\asp code\lr_two\bin\Debug\net8.0\testConfiguration.json
+D:\asp code\lr_two\bin\Debug\net8.0\lr_two.staticwebassets.endpoints.json
+D:\asp code\lr_two\bin\Debug\net8.0\lr_two.exe
+D:\asp code\lr_two\bin\Debug\net8.0\lr_two.deps.json
+D:\asp code\lr_two\bin\Debug\net8.0\lr_two.runtimeconfig.json
+D:\asp code\lr_two\bin\Debug\net8.0\lr_two.dll
+D:\asp code\lr_two\bin\Debug\net8.0\lr_two.pdb
+D:\asp code\lr_two\obj\Debug\net8.0\lr_two.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp code\lr_two\obj\Debug\net8.0\lr_two.AssemblyInfoInputs.cache
+D:\asp code\lr_two\obj\Debug\net8.0\lr_two.AssemblyInfo.cs
+D:\asp code\lr_two\obj\Debug\net8.0\lr_two.csproj.CoreCompileInputs.cache
+D:\asp code\lr_two\obj\Debug\net8.0\lr_two.MvcApplicationPartsAssemblyInfo.cache
+D:\asp code\lr_two\obj\Debug\net8.0\scopedcss\bundle\lr_two.styles.css
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets.build.json
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets.development.json
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.lr_two.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.lr_two.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.build.lr_two.props
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lr_two.props
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lr_two.props
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets.pack.json
+D:\asp code\lr_two\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\asp code\lr_two\obj\Debug\net8.0\lr_two.dll
+D:\asp code\lr_two\obj\Debug\net8.0\refint\lr_two.dll
+D:\asp code\lr_two\obj\Debug\net8.0\lr_two.pdb
+D:\asp code\lr_two\obj\Debug\net8.0\lr_two.genruntimeconfig.cache
+D:\asp code\lr_two\obj\Debug\net8.0\ref\lr_two.dll

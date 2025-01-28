@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<lr_eight.Models.ProductViewModel>
+
+<table class="table bg-light text-dark" border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Created Date</th>
+    </tr>
+    @foreach(var product in Model)
+    {
+        <tr>
+            <td>@product.Id</td>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>@product.CreatedDate</td>
+        </tr>
+    }
+</table>
+<div class="bg-light text-dark">
+    <ul>
+        <li>ID. Name - Price$ (Create Date)</li>
+        @foreach(var product in Model)
+        {
+            <li>@product.Id. @product.Name - @product.Price$ (@product.CreatedDate)</li>
+        }
+    </ul>
+</div>
+

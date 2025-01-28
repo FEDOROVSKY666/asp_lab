@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model lr_nine.Models.CityViewModel
+
+<form method="post" action="/Weather/City">
+    <div class="form-group">
+        <label asp-for="CityName">City</label>
+        <input type="text" class="form-control form-control-lg" asp-for="CityName" placeholder="Enter city name" required>
+    </div>
+    <span asp-validation-for="CityName" class="text-danger"></span>
+    <div class="text-center mt-3">
+        <button type="submit" class="btn btn-primary btn-lg">Check Weather</button>
+    </div>
+</form>

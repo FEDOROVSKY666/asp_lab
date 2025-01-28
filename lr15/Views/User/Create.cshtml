@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+@model lr_fifteen.Models.UserModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<form asp-action="Create" asp-controller="User"
+      style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0px;">
+
+    <div style="display: flex; flex-direction: column; gap: 0.5vh; width: 300px;">
+        <label asp-for="Name">Name:</label><br />
+        <input type="text" asp-for="Name" style="padding: 0.5rem; width: 100%;" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 1vh;">
+        <input type="submit" value="Add to DB" style="padding: 0.5rem; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; width: 100%;" />
+    </div>
+
+    <a asp-action="Index" style="margin-top: 1rem; text-decoration: none;">Check UserDB</a>
+</form>

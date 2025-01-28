@@ -1,0 +1,19 @@
+{
+  "Book": {
+    "1984": {
+      "name": "1984",
+      "author": "George Orwell",
+      "releaseYear": 1949
+    },
+    "MasterandMargarita": {
+      "name": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "releaseYear": 1967
+    },
+    "PhilosophStone": {
+      "name": "Harry Potter and the Philosopher's Stone",
+      "author": "Joanne Rowling",
+      "releaseYear": 1997
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "GetWeather";
+}
+
+@model lr_nine.Models.WeatherViewModel
+
+<ul class="list-group">
+    <li class="list-group-item">Country code: @Model.Sys.Country</li>
+    <li class="list-group-item">City name: @Model.Name</li>
+    <li class="list-group-item">Longitude: @Model.Coord.Lon</li>
+    <li class="list-group-item">Latitude: @Model.Coord.Lat</li>
+    @foreach(var weather in Model.Weather)
+    {
+        <li class="list-group-item">Weather main: @weather.Main</li>
+        <li class="list-group-item">Weather description: @weather.Description</li>
+    }
+    <li class="list-group-item">Temp: @Model.Main.Temp celsius</li>
+    <li class="list-group-item">Temp feels like: @Model.Main.Feels_like celsius</li>
+    <li class="list-group-item">Temp Min: @Model.Main.Temp_min celsius</li>
+    <li class="list-group-item">Temp Max: @Model.Main.Temp_max celsius</li>
+    <li class="list-group-item">Wind speed: @Model.Wind.Speed</li>
+</ul>
+<div class="text-center mt-3">
+    <a type="submit" class="btn btn-primary btn-lg" href="/Weather">Back</a>
+</div>
+

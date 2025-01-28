@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<lr_twelve_two.Models.Company>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="container mt-5">
+    <table class="table table-striped">
+        <tr>
+            <th>ID</th>
+            <th>Company Name</th>
+            <th>Company Field</th>
+            <th>Company Value</th>
+            <th>Delete Company</th>
+        </tr>
+        @foreach (var company in Model)
+        {
+            <tr>
+                <td>@company.Id</td>
+                <td>@company.Name</td>
+                <td>@company.Field</td>
+                <td>@company.Value</td>
+                <td>
+                    <form method="post" asp-action="Remove" asp-controller="Company" asp-route-id="@company.Id">
+                        <button type="submit" class="btn btn-danger btn-sm">Remove</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </table>
+    <div class="text-center">
+        <form method="post" asp-action="AddFiveCompanies" asp-controller="Company">
+            <button type="submit" class="btn btn-success btn-lg m-2">Add 5 companies</button>
+        </form>
+    </div>
+</div>
+

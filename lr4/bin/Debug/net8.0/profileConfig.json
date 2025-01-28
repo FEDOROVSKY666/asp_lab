@@ -1,0 +1,28 @@
+{
+  "Profile": {
+    "profile0": {
+      "id": 0,
+      "name": "Sasha",
+      "yearsOld": 18,
+      "books": [ "The Master and Margarita" ]
+    },
+    "profile1": {
+      "id": 1,
+      "name": "Vova",
+      "yearsOld": 15,
+      "books": [ "Harry Potter and the Philosopher's Stone" ]
+    },
+    "profile2": {
+      "id": 2,
+      "name": "Anton",
+      "yearsOld": 20,
+      "books": [ "1994", "The Master and Margarita"]
+    },
+    "profile3": {
+      "id": 3,
+      "name": "Foma",
+      "yearsOld": 17,
+      "books": [ "Harry Potter and the Philosopher's Stone", "1994", "The Master and Margarita" ]
+    }
+  }
+}

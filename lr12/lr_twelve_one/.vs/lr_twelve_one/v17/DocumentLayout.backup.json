@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|d:\\asp code\\asp.net-lr_twelve\\lr_twelve_one\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|solutionrelative:controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|d:\\asp code\\asp.net-lr_twelve\\lr_twelve_one\\views\\userinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|solutionrelative:views\\userinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|d:\\asp code\\asp.net-lr_twelve\\lr_twelve_one\\views\\userinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|solutionrelative:views\\userinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|d:\\asp code\\asp.net-lr_twelve\\lr_twelve_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|d:\\asp code\\asp.net-lr_twelve\\lr_twelve_one\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|d:\\asp code\\asp.net-lr_twelve\\lr_twelve_one\\database\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|solutionrelative:database\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|d:\\asp code\\asp.net-lr_twelve\\lr_twelve_one\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31FE859D-4684-47F4-92F1-0525C30F7D84}|lr_twelve_one.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Views\\UserInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserInfo\\Index.cshtml",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Views\\UserInfo\\Index.cshtml",
+              "RelativeToolTip": "Views\\UserInfo\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T21:17:49.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Views\\UserInfo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserInfo\\Create.cshtml",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Views\\UserInfo\\Create.cshtml",
+              "RelativeToolTip": "Views\\UserInfo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T20:34:07.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfoController.cs",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Controllers\\UserInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserInfoController.cs",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Controllers\\UserInfoController.cs",
+              "RelativeToolTip": "Controllers\\UserInfoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwDAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:28:56.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:20:04.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T20:19:13.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\DataBase\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\ApplicationContext.cs",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\DataBase\\ApplicationContext.cs",
+              "RelativeToolTip": "DataBase\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:17:35.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\asp code\\ASP.NET-lr_twelve\\lr_twelve_one\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:16:23.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

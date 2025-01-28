@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<lr_fifteen.Models.UserModel>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div style="height: 100vh; display: flex; flex-direction: column; gap: 3.5vh; align-items: center; justify-content: center; margin: 0px">
+    <h1>User List</h1>
+    <a asp-action="Create">Add User</a>
+    <table class="table">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <div>@item.Id</div>
+                </td>
+                <td>
+                    <div>@item.Name</div>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+

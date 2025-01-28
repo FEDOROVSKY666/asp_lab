@@ -1,0 +1,655 @@
+2024-11-14 12:37:58.079 +02:00 [INF] 
+=== SeriLog Logger "Log.Information" ===
+
+2024-11-14 12:37:58.090 +02:00 [WRN] 
+=== SeriLog Logger "Log.Warning" ===
+
+2024-11-14 12:37:58.090 +02:00 [ERR] 
+=== SeriLog Logger "Log.Error" ===
+
+2024-11-14 12:37:58.091 +02:00 [DBG] 
+=== SeriLog Logger "Log.Debug" ===
+
+2024-11-14 12:37:58.091 +02:00 [FTL] 
+=== SeriLog Logger "Log.Fatal" ===
+
+2024-11-14 12:38:07.787 +02:00 [INF] User Anon logged in at: "2024-11-14T12:38:07.7871957+02:00"
+2024-11-14 12:38:07.792 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 12:38:07.793 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 12:38:07.794 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 12:38:07.799 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T12:38:07.7993363+02:00"
+2024-11-14 12:38:08.380 +02:00 [INF] 
+=== SeriLog Logger "Log.Information" ===
+
+2024-11-14 12:38:08.381 +02:00 [WRN] 
+=== SeriLog Logger "Log.Warning" ===
+
+2024-11-14 12:38:08.381 +02:00 [ERR] 
+=== SeriLog Logger "Log.Error" ===
+
+2024-11-14 12:38:08.382 +02:00 [DBG] 
+=== SeriLog Logger "Log.Debug" ===
+
+2024-11-14 12:38:08.382 +02:00 [FTL] 
+=== SeriLog Logger "Log.Fatal" ===
+
+2024-11-14 12:38:09.334 +02:00 [INF] 
+=== SeriLog Logger "Log.Information" ===
+
+2024-11-14 12:38:09.335 +02:00 [WRN] 
+=== SeriLog Logger "Log.Warning" ===
+
+2024-11-14 12:38:09.335 +02:00 [ERR] 
+=== SeriLog Logger "Log.Error" ===
+
+2024-11-14 12:38:09.336 +02:00 [DBG] 
+=== SeriLog Logger "Log.Debug" ===
+
+2024-11-14 12:38:09.337 +02:00 [FTL] 
+=== SeriLog Logger "Log.Fatal" ===
+
+2024-11-14 12:38:10.267 +02:00 [INF] User Anon logged in at: "2024-11-14T12:38:10.2677502+02:00"
+2024-11-14 12:38:10.268 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 12:38:10.269 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 12:38:10.270 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 12:38:10.272 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T12:38:10.2721997+02:00"
+2024-11-14 12:49:03.286 +02:00 [INF] 
+=== SeriLog Logger "Log.Information" ===
+
+2024-11-14 12:49:03.296 +02:00 [WRN] 
+=== SeriLog Logger "Log.Warning" ===
+
+2024-11-14 12:49:03.297 +02:00 [ERR] 
+=== SeriLog Logger "Log.Error" ===
+
+2024-11-14 12:49:03.297 +02:00 [DBG] 
+=== SeriLog Logger "Log.Debug" ===
+
+2024-11-14 12:49:03.298 +02:00 [FTL] 
+=== SeriLog Logger "Log.Fatal" ===
+
+2024-11-14 12:49:03.857 +02:00 [INF] User Anon logged in at: "2024-11-14T12:49:03.8573752+02:00"
+2024-11-14 12:49:03.862 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 12:49:03.862 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 12:49:03.863 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 12:49:03.867 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T12:49:03.8672654+02:00"
+2024-11-14 12:52:27.562 +02:00 [INF] User Anon logged in at: "2024-11-14T12:52:27.5623436+02:00"
+2024-11-14 12:52:27.575 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 12:52:27.577 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 12:52:27.582 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 12:52:27.590 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T12:52:27.5909137+02:00"
+2024-11-14 12:52:31.966 +02:00 [INF] 
+=== SeriLog Logger "Log.Information" ===
+
+2024-11-14 12:52:31.967 +02:00 [WRN] 
+=== SeriLog Logger "Log.Warning" ===
+
+2024-11-14 12:52:31.967 +02:00 [ERR] 
+=== SeriLog Logger "Log.Error" ===
+
+2024-11-14 12:52:31.968 +02:00 [DBG] 
+=== SeriLog Logger "Log.Debug" ===
+
+2024-11-14 12:52:31.968 +02:00 [FTL] 
+=== SeriLog Logger "Log.Fatal" ===
+
+2024-11-14 12:53:20.106 +02:00 [INF] User Anon logged in at: "2024-11-14T12:53:20.1059993+02:00"
+2024-11-14 12:53:20.121 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 12:53:20.122 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 12:53:20.126 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 12:53:20.132 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T12:53:20.1326021+02:00"
+2024-11-14 12:55:08.198 +02:00 [ERR] Some error!
+System.Exception: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 12:56:37.074 +02:00 [ERR] Some error!
+System.NotImplementedException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 12:56:45.558 +02:00 [ERR] Some error!
+System.NotImplementedException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 12:57:17.515 +02:00 [ERR] Some error!
+System.NotImplementedException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 12:57:57.501 +02:00 [ERR] Виникла помилка під час виконання операції.
+System.InvalidOperationException: Щось пішло не так!
+ ---> System.ArgumentException: Невірний аргумент
+   --- End of inner exception stack trace ---
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 47
+2024-11-14 12:58:13.788 +02:00 [ERR] Виникла помилка під час виконання операції.
+System.InvalidOperationException: Щось пішло не так!
+ ---> System.ArgumentException: Невірний аргумент
+   --- End of inner exception stack trace ---
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 47
+2024-11-14 13:00:44.748 +02:00 [ERR] Виникла помилка під час виконання операції.
+System.InvalidOperationException: Щось пішло не так!
+ ---> System.ArgumentException: Невірний аргумент
+   --- End of inner exception stack trace ---
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 47
+2024-11-14 13:00:54.253 +02:00 [INF] User Anon logged in at: "2024-11-14T13:00:54.2530244+02:00"
+2024-11-14 13:00:54.256 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 13:00:54.257 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 13:00:54.258 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 13:00:54.261 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T13:00:54.2612245+02:00"
+2024-11-14 13:01:20.822 +02:00 [ERR] Виникла помилка під час виконання операції.
+System.InvalidOperationException: Щось пішло не так!
+ ---> System.ArgumentException: Невірний аргумент
+   --- End of inner exception stack trace ---
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 47
+2024-11-14 13:01:24.022 +02:00 [INF] User Anon logged in at: "2024-11-14T13:01:24.0222333+02:00"
+2024-11-14 13:01:24.026 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 13:01:24.027 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 13:01:24.027 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 13:01:24.031 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T13:01:24.0310500+02:00"
+2024-11-14 13:01:24.456 +02:00 [INF] 
+=== SeriLog Logger "Log.Information" ===
+
+2024-11-14 13:01:24.457 +02:00 [WRN] 
+=== SeriLog Logger "Log.Warning" ===
+
+2024-11-14 13:01:24.458 +02:00 [ERR] 
+=== SeriLog Logger "Log.Error" ===
+
+2024-11-14 13:01:24.458 +02:00 [DBG] 
+=== SeriLog Logger "Log.Debug" ===
+
+2024-11-14 13:01:24.459 +02:00 [FTL] 
+=== SeriLog Logger "Log.Fatal" ===
+
+2024-11-14 13:03:00.404 +02:00 [ERR] Виникла помилка під час виконання операції.
+System.InvalidOperationException: Щось пішло не так!
+ ---> System.ArgumentException: Невірний аргумент
+   --- End of inner exception stack trace ---
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 47
+2024-11-14 13:17:30.940 +02:00 [ERR] Some error!
+System.NotImplementedException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:17:31.762 +02:00 [INF] User Anon logged in at: "2024-11-14T13:17:31.7624180+02:00"
+2024-11-14 13:17:31.766 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 13:17:31.767 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 13:17:31.768 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 13:17:31.771 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T13:17:31.7717764+02:00"
+2024-11-14 13:29:15.671 +02:00 [ERR] Some error!
+System.NotImplementedException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:30:34.880 +02:00 [INF] 
+=== SeriLog Logger "Log.Information" ===
+
+2024-11-14 13:30:34.891 +02:00 [WRN] 
+=== SeriLog Logger "Log.Warning" ===
+
+2024-11-14 13:30:34.891 +02:00 [ERR] 
+=== SeriLog Logger "Log.Error" ===
+
+2024-11-14 13:30:34.892 +02:00 [DBG] 
+=== SeriLog Logger "Log.Debug" ===
+
+2024-11-14 13:30:34.893 +02:00 [FTL] 
+=== SeriLog Logger "Log.Fatal" ===
+
+2024-11-14 13:30:36.090 +02:00 [INF] User Anon logged in at: "2024-11-14T13:30:36.0898103+02:00"
+2024-11-14 13:30:36.094 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 13:30:36.095 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 13:30:36.095 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 13:30:36.099 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T13:30:36.0996611+02:00"
+2024-11-14 13:30:36.731 +02:00 [ERR] Some error!
+System.NotImplementedException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:41:09.941 +02:00 [INF] User Anon logged in at: "2024-11-14T13:41:09.9411402+02:00"
+2024-11-14 13:41:09.955 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 13:41:09.956 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 13:41:09.959 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 13:41:09.966 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T13:41:09.9662520+02:00"
+2024-11-14 13:46:30.269 +02:00 [ERR] Some error!
+System.NotImplementedException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:50:39.099 +02:00 [ERR] Some error!
+System.NotImplementedException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:50:42.761 +02:00 [INF] User Anon logged in at: "2024-11-14T13:50:42.7610374+02:00"
+2024-11-14 13:50:42.765 +02:00 [WRN] User Anon has the role: Guest
+2024-11-14 13:50:42.766 +02:00 [INF] User Anon is a superuser - false
+2024-11-14 13:50:42.767 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2024-11-14 13:50:42.770 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2024-11-14T13:50:42.7708510+02:00"
+2024-11-14 13:52:41.983 +02:00 [ERR] Some error!
+System.InvalidOperationException: Unknown Error
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:53:05.479 +02:00 [ERR] Some error!
+System.ArgumentNullException: Some error message (Parameter 'parameterName')
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:53:32.046 +02:00 [ERR] Some error!
+System.ArgumentNullException: Some error message (Parameter 'parameterName')
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:57:52.973 +02:00 [ERR] Some error!
+System.InvalidOperationException: This is a test exception.
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:57:57.402 +02:00 [ERR] Some error!
+System.InvalidOperationException: This is a test exception.
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:57:57.682 +02:00 [ERR] Some error!
+System.InvalidOperationException: This is a test exception.
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:58:19.224 +02:00 [ERR] Some error!
+System.InvalidOperationException: This is a test exception.
+   at Program.<Main>$(String[] args) in C:\5 SEMESTR\ASP.NET\lr_thirteen\Program.cs:line 28
+2024-11-14 13:59:22.742 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2024-11-14 13:59:22.756 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2024-11-14 13:59:22.756 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Logger/Index.cshtml'.
+2024-11-14 13:59:22.757 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2024-11-14 13:59:22.761 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2024-11-14 13:59:22.761 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2024-11-14 13:59:22.762 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2024-11-14 13:59:22.763 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2024-11-14 13:59:22.769 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-11-14 13:59:22.816 +02:00 [DBG] Hosting starting
+2024-11-14 13:59:22.833 +02:00 [INF] User profile is available. Using 'C:\Users\Oleh\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-14 13:59:22.838 +02:00 [DBG] Reading data from file 'C:\Users\Oleh\AppData\Local\ASP.NET\DataProtection-Keys\key-bdb951e5-c16c-478c-8e8e-4b4c7a6a2827.xml'.
+2024-11-14 13:59:22.843 +02:00 [DBG] Found key {bdb951e5-c16c-478c-8e8e-4b4c7a6a2827}.
+2024-11-14 13:59:22.848 +02:00 [DBG] Considering key {bdb951e5-c16c-478c-8e8e-4b4c7a6a2827} with expiration date 2025-01-30 00:50:34Z as default key.
+2024-11-14 13:59:22.850 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-11-14 13:59:22.851 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-11-14 13:59:22.852 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-11-14 13:59:22.855 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-11-14 13:59:22.857 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-11-14 13:59:22.858 +02:00 [DBG] Using key {bdb951e5-c16c-478c-8e8e-4b4c7a6a2827} as the default key.
+2024-11-14 13:59:22.859 +02:00 [DBG] Key ring with default key {bdb951e5-c16c-478c-8e8e-4b4c7a6a2827} was loaded during application startup.
+2024-11-14 13:59:22.924 +02:00 [INF] Now listening on: https://localhost:7258
+2024-11-14 13:59:22.925 +02:00 [INF] Now listening on: http://localhost:5126
+2024-11-14 13:59:22.925 +02:00 [DBG] Loaded hosting startup assembly lr_thirteen
+2024-11-14 13:59:22.926 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2024-11-14 13:59:22.926 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-11-14 13:59:22.927 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-11-14 13:59:22.940 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-14 13:59:22.941 +02:00 [INF] Hosting environment: Development
+2024-11-14 13:59:22.942 +02:00 [INF] Content root path: C:\5 SEMESTR\ASP.NET\lr_thirteen
+2024-11-14 13:59:22.942 +02:00 [DBG] Hosting started
+2024-11-14 13:59:23.039 +02:00 [DBG] Connection id "0HN84KF3OKIP0" accepted.
+2024-11-14 13:59:23.039 +02:00 [DBG] Connection id "0HN84KF3OKIP1" accepted.
+2024-11-14 13:59:23.039 +02:00 [DBG] Connection id "0HN84KF3OKIP0" started.
+2024-11-14 13:59:23.040 +02:00 [DBG] Connection id "0HN84KF3OKIP1" started.
+2024-11-14 13:59:23.060 +02:00 [DBG] Connection id "0HN84KF3OKIP0" received FIN.
+2024-11-14 13:59:23.060 +02:00 [DBG] Connection id "0HN84KF3OKIP1" received FIN.
+2024-11-14 13:59:23.063 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-11-14 13:59:23.063 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-11-14 13:59:23.084 +02:00 [DBG] Connection id "0HN84KF3OKIP1" stopped.
+2024-11-14 13:59:23.084 +02:00 [DBG] Connection id "0HN84KF3OKIP0" stopped.
+2024-11-14 13:59:23.085 +02:00 [DBG] Connection id "0HN84KF3OKIP0" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-11-14 13:59:23.085 +02:00 [DBG] Connection id "0HN84KF3OKIP1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-11-14 13:59:23.401 +02:00 [DBG] Connection id "0HN84KF3OKIP2" accepted.
+2024-11-14 13:59:23.435 +02:00 [DBG] Connection id "0HN84KF3OKIP2" started.
+2024-11-14 13:59:23.466 +02:00 [DBG] Connection 0HN84KF3OKIP2 established using the following protocol: "Tls13"
+2024-11-14 13:59:23.502 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/ - null null
+2024-11-14 13:59:23.538 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-11-14 13:59:23.544 +02:00 [DBG] The request path / does not match a supported file type
+2024-11-14 13:59:23.561 +02:00 [DBG] 1 candidate(s) found for the request path '/'
+2024-11-14 13:59:23.563 +02:00 [DBG] Endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)' with route pattern '{controller=Logger}/{action=Index}/{id?}' is valid for the request path '/'
+2024-11-14 13:59:23.565 +02:00 [DBG] Request matched endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 13:59:23.568 +02:00 [INF] Executing endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 13:59:23.587 +02:00 [INF] Route matched with {action = "Index", controller = "Logger"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lr_thirteen.Controllers.LoggerController (lr_thirteen).
+2024-11-14 13:59:23.589 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-11-14 13:59:23.590 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 13:59:23.591 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-11-14 13:59:23.593 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-11-14 13:59:23.594 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 13:59:23.597 +02:00 [DBG] Executing controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 13:59:23.598 +02:00 [DBG] Executed controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 13:59:23.601 +02:00 [DBG] View lookup cache miss for view 'Index' in controller 'Logger'.
+2024-11-14 13:59:23.605 +02:00 [INF] Executing ViewResult, running view Index.
+2024-11-14 13:59:23.608 +02:00 [DBG] The view path '/Views/Logger/Index.cshtml' was found in 5.3038ms.
+2024-11-14 13:59:23.631 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[DefaultLogger],controller=[Logger])
+2024-11-14 13:59:23.634 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/DefaultLogger and 
+2024-11-14 13:59:23.636 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/DefaultLogger
+2024-11-14 13:59:23.639 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogLogger],controller=[Logger])
+2024-11-14 13:59:23.640 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogLogger and 
+2024-11-14 13:59:23.640 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogLogger
+2024-11-14 13:59:23.641 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogCustom],controller=[Logger])
+2024-11-14 13:59:23.642 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogCustom and 
+2024-11-14 13:59:23.643 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogCustom
+2024-11-14 13:59:23.645 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogException],controller=[Logger])
+2024-11-14 13:59:23.646 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogException and 
+2024-11-14 13:59:23.647 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogException
+2024-11-14 13:59:23.648 +02:00 [DBG] View lookup cache miss for view '_Layout' in controller 'Logger'.
+2024-11-14 13:59:23.661 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2024-11-14 13:59:23.662 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home and 
+2024-11-14 13:59:23.663 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home
+2024-11-14 13:59:23.664 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2024-11-14 13:59:23.665 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home and 
+2024-11-14 13:59:23.666 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home
+2024-11-14 13:59:23.667 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-11-14 13:59:23.667 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2024-11-14 13:59:23.668 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home/Privacy
+2024-11-14 13:59:23.670 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-11-14 13:59:23.670 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2024-11-14 13:59:23.671 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home/Privacy
+2024-11-14 13:59:23.677 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-11-14 13:59:23.680 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-11-14 13:59:23.682 +02:00 [INF] Executed ViewResult - view Index executed in 81.6842ms.
+2024-11-14 13:59:23.684 +02:00 [INF] Executed action lr_thirteen.Controllers.LoggerController.Index (lr_thirteen) in 88.9441ms
+2024-11-14 13:59:23.684 +02:00 [INF] Executed endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 13:59:23.685 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-11-14 13:59:23.686 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-11-14 13:59:23.689 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/ - 200 null text/html; charset=utf-8 190.7536ms
+2024-11-14 13:59:23.849 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/_vs/browserLink - null null
+2024-11-14 13:59:23.849 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-14 13:59:23.863 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 13.8502ms
+2024-11-14 13:59:23.878 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.1454ms
+2024-11-14 13:59:26.666 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/Logger/SeriLogException - null null
+2024-11-14 13:59:26.671 +02:00 [DBG] The request path /Logger/SeriLogException does not match a supported file type
+2024-11-14 13:59:26.673 +02:00 [DBG] 1 candidate(s) found for the request path '/Logger/SeriLogException'
+2024-11-14 13:59:26.674 +02:00 [DBG] Endpoint 'lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen)' with route pattern '{controller=Logger}/{action=Index}/{id?}' is valid for the request path '/Logger/SeriLogException'
+2024-11-14 13:59:26.675 +02:00 [DBG] Request matched endpoint 'lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen)'
+2024-11-14 13:59:26.676 +02:00 [INF] Executing endpoint 'lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen)'
+2024-11-14 13:59:26.677 +02:00 [INF] Route matched with {action = "SeriLogException", controller = "Logger"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult SeriLogException() on controller lr_thirteen.Controllers.LoggerController (lr_thirteen).
+2024-11-14 13:59:26.678 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-11-14 13:59:26.679 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 13:59:26.680 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-11-14 13:59:26.681 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-11-14 13:59:26.682 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 13:59:26.683 +02:00 [DBG] Executing controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 13:59:26.683 +02:00 [DBG] Executed controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 13:59:26.711 +02:00 [ERR] Some error!
+System.InvalidOperationException: This is a test exception.
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 46
+2024-11-14 13:59:26.720 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[Index],controller=[Logger])
+2024-11-14 13:59:26.721 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in  and 
+2024-11-14 13:59:26.722 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /
+2024-11-14 13:59:26.722 +02:00 [INF] Executing RedirectResult, redirecting to /.
+2024-11-14 13:59:26.723 +02:00 [INF] Executed action lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen) in 40.8265ms
+2024-11-14 13:59:26.724 +02:00 [INF] Executed endpoint 'lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen)'
+2024-11-14 13:59:26.725 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/Logger/SeriLogException - 302 0 null 58.5551ms
+2024-11-14 13:59:26.731 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/ - null null
+2024-11-14 13:59:26.734 +02:00 [DBG] The request path / does not match a supported file type
+2024-11-14 13:59:26.734 +02:00 [DBG] 1 candidate(s) found for the request path '/'
+2024-11-14 13:59:26.735 +02:00 [DBG] Endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)' with route pattern '{controller=Logger}/{action=Index}/{id?}' is valid for the request path '/'
+2024-11-14 13:59:26.736 +02:00 [DBG] Request matched endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 13:59:26.737 +02:00 [INF] Executing endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 13:59:26.738 +02:00 [INF] Route matched with {action = "Index", controller = "Logger"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lr_thirteen.Controllers.LoggerController (lr_thirteen).
+2024-11-14 13:59:26.739 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-11-14 13:59:26.739 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 13:59:26.740 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-11-14 13:59:26.742 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-11-14 13:59:26.742 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 13:59:26.743 +02:00 [DBG] Executing controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 13:59:26.744 +02:00 [DBG] Executed controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 13:59:26.745 +02:00 [DBG] View lookup cache hit for view 'Index' in controller 'Logger'.
+2024-11-14 13:59:26.746 +02:00 [INF] Executing ViewResult, running view Index.
+2024-11-14 13:59:26.747 +02:00 [DBG] The view path '/Views/Logger/Index.cshtml' was found in 2.0486ms.
+2024-11-14 13:59:26.748 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[DefaultLogger],controller=[Logger])
+2024-11-14 13:59:26.749 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/DefaultLogger and 
+2024-11-14 13:59:26.750 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/DefaultLogger
+2024-11-14 13:59:26.751 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogLogger],controller=[Logger])
+2024-11-14 13:59:26.752 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogLogger and 
+2024-11-14 13:59:26.753 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogLogger
+2024-11-14 13:59:26.754 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogCustom],controller=[Logger])
+2024-11-14 13:59:26.755 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogCustom and 
+2024-11-14 13:59:26.756 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogCustom
+2024-11-14 13:59:26.757 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogException],controller=[Logger])
+2024-11-14 13:59:26.758 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogException and 
+2024-11-14 13:59:26.759 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogException
+2024-11-14 13:59:26.761 +02:00 [DBG] View lookup cache hit for view '_Layout' in controller 'Logger'.
+2024-11-14 13:59:26.763 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2024-11-14 13:59:26.764 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home and 
+2024-11-14 13:59:26.765 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home
+2024-11-14 13:59:26.767 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2024-11-14 13:59:26.768 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home and 
+2024-11-14 13:59:26.769 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home
+2024-11-14 13:59:26.770 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-11-14 13:59:26.771 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2024-11-14 13:59:26.772 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home/Privacy
+2024-11-14 13:59:26.773 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-11-14 13:59:26.774 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2024-11-14 13:59:26.775 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home/Privacy
+2024-11-14 13:59:26.776 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-11-14 13:59:26.777 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-11-14 13:59:26.778 +02:00 [INF] Executed ViewResult - view Index executed in 32.8077ms.
+2024-11-14 13:59:26.779 +02:00 [INF] Executed action lr_thirteen.Controllers.LoggerController.Index (lr_thirteen) in 35.3043ms
+2024-11-14 13:59:26.780 +02:00 [INF] Executed endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 13:59:26.781 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-11-14 13:59:26.781 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-11-14 13:59:26.782 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/ - 200 null text/html; charset=utf-8 51.4542ms
+2024-11-14 13:59:26.844 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/_vs/browserLink - null null
+2024-11-14 13:59:26.844 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-14 13:59:26.849 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 5.4373ms
+2024-11-14 13:59:26.859 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.3811ms
+2024-11-14 14:00:56.422 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2024-11-14 14:00:56.437 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2024-11-14 14:00:56.438 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Logger/Index.cshtml'.
+2024-11-14 14:00:56.438 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2024-11-14 14:00:56.440 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2024-11-14 14:00:56.443 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2024-11-14 14:00:56.443 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2024-11-14 14:00:56.444 +02:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2024-11-14 14:00:56.449 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-11-14 14:00:56.507 +02:00 [DBG] Hosting starting
+2024-11-14 14:00:56.524 +02:00 [INF] User profile is available. Using 'C:\Users\Oleh\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-11-14 14:00:56.529 +02:00 [DBG] Reading data from file 'C:\Users\Oleh\AppData\Local\ASP.NET\DataProtection-Keys\key-bdb951e5-c16c-478c-8e8e-4b4c7a6a2827.xml'.
+2024-11-14 14:00:56.534 +02:00 [DBG] Found key {bdb951e5-c16c-478c-8e8e-4b4c7a6a2827}.
+2024-11-14 14:00:56.539 +02:00 [DBG] Considering key {bdb951e5-c16c-478c-8e8e-4b4c7a6a2827} with expiration date 2025-01-30 00:50:34Z as default key.
+2024-11-14 14:00:56.541 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-11-14 14:00:56.543 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-11-14 14:00:56.544 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-11-14 14:00:56.547 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-11-14 14:00:56.547 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-11-14 14:00:56.549 +02:00 [DBG] Using key {bdb951e5-c16c-478c-8e8e-4b4c7a6a2827} as the default key.
+2024-11-14 14:00:56.549 +02:00 [DBG] Key ring with default key {bdb951e5-c16c-478c-8e8e-4b4c7a6a2827} was loaded during application startup.
+2024-11-14 14:00:56.626 +02:00 [INF] Now listening on: https://localhost:7258
+2024-11-14 14:00:56.627 +02:00 [INF] Now listening on: http://localhost:5126
+2024-11-14 14:00:56.627 +02:00 [DBG] Loaded hosting startup assembly lr_thirteen
+2024-11-14 14:00:56.628 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2024-11-14 14:00:56.628 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-11-14 14:00:56.629 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-11-14 14:00:56.644 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-14 14:00:56.644 +02:00 [INF] Hosting environment: Development
+2024-11-14 14:00:56.645 +02:00 [INF] Content root path: C:\5 SEMESTR\ASP.NET\lr_thirteen
+2024-11-14 14:00:56.645 +02:00 [DBG] Hosting started
+2024-11-14 14:00:56.832 +02:00 [DBG] Connection id "0HN84KFVN3U9R" accepted.
+2024-11-14 14:00:56.832 +02:00 [DBG] Connection id "0HN84KFVN3U9Q" accepted.
+2024-11-14 14:00:56.833 +02:00 [DBG] Connection id "0HN84KFVN3U9R" started.
+2024-11-14 14:00:56.833 +02:00 [DBG] Connection id "0HN84KFVN3U9Q" started.
+2024-11-14 14:00:56.846 +02:00 [DBG] Connection id "0HN84KFVN3U9Q" received FIN.
+2024-11-14 14:00:56.846 +02:00 [DBG] Connection id "0HN84KFVN3U9R" received FIN.
+2024-11-14 14:00:56.852 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-11-14 14:00:56.852 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-11-14 14:00:56.878 +02:00 [DBG] Connection id "0HN84KFVN3U9Q" stopped.
+2024-11-14 14:00:56.878 +02:00 [DBG] Connection id "0HN84KFVN3U9R" stopped.
+2024-11-14 14:00:56.880 +02:00 [DBG] Connection id "0HN84KFVN3U9Q" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-11-14 14:00:56.880 +02:00 [DBG] Connection id "0HN84KFVN3U9R" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-11-14 14:00:57.526 +02:00 [DBG] Connection id "0HN84KFVN3U9S" accepted.
+2024-11-14 14:00:57.532 +02:00 [DBG] Connection id "0HN84KFVN3U9S" started.
+2024-11-14 14:00:57.544 +02:00 [DBG] Connection 0HN84KFVN3U9S established using the following protocol: "Tls13"
+2024-11-14 14:00:57.578 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/ - null null
+2024-11-14 14:00:57.605 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-11-14 14:00:57.609 +02:00 [DBG] The request path / does not match a supported file type
+2024-11-14 14:00:57.618 +02:00 [DBG] 1 candidate(s) found for the request path '/'
+2024-11-14 14:00:57.621 +02:00 [DBG] Endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)' with route pattern '{controller=Logger}/{action=Index}/{id?}' is valid for the request path '/'
+2024-11-14 14:00:57.623 +02:00 [DBG] Request matched endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 14:00:57.625 +02:00 [INF] Executing endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 14:00:57.647 +02:00 [INF] Route matched with {action = "Index", controller = "Logger"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lr_thirteen.Controllers.LoggerController (lr_thirteen).
+2024-11-14 14:00:57.649 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-11-14 14:00:57.650 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 14:00:57.652 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-11-14 14:00:57.653 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-11-14 14:00:57.654 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 14:00:57.656 +02:00 [DBG] Executing controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 14:00:57.657 +02:00 [DBG] Executed controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 14:00:57.661 +02:00 [DBG] View lookup cache miss for view 'Index' in controller 'Logger'.
+2024-11-14 14:00:57.665 +02:00 [INF] Executing ViewResult, running view Index.
+2024-11-14 14:00:57.668 +02:00 [DBG] The view path '/Views/Logger/Index.cshtml' was found in 5.1461ms.
+2024-11-14 14:00:57.691 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[DefaultLogger],controller=[Logger])
+2024-11-14 14:00:57.694 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/DefaultLogger and 
+2024-11-14 14:00:57.696 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/DefaultLogger
+2024-11-14 14:00:57.699 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogLogger],controller=[Logger])
+2024-11-14 14:00:57.700 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogLogger and 
+2024-11-14 14:00:57.701 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogLogger
+2024-11-14 14:00:57.703 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogCustom],controller=[Logger])
+2024-11-14 14:00:57.704 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogCustom and 
+2024-11-14 14:00:57.705 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogCustom
+2024-11-14 14:00:57.707 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogException],controller=[Logger])
+2024-11-14 14:00:57.708 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogException and 
+2024-11-14 14:00:57.709 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogException
+2024-11-14 14:00:57.711 +02:00 [DBG] View lookup cache miss for view '_Layout' in controller 'Logger'.
+2024-11-14 14:00:57.724 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2024-11-14 14:00:57.726 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home and 
+2024-11-14 14:00:57.727 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home
+2024-11-14 14:00:57.728 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2024-11-14 14:00:57.729 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home and 
+2024-11-14 14:00:57.731 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home
+2024-11-14 14:00:57.732 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-11-14 14:00:57.733 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2024-11-14 14:00:57.735 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home/Privacy
+2024-11-14 14:00:57.736 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-11-14 14:00:57.737 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2024-11-14 14:00:57.738 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home/Privacy
+2024-11-14 14:00:57.745 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-11-14 14:00:57.748 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-11-14 14:00:57.752 +02:00 [INF] Executed ViewResult - view Index executed in 91.2763ms.
+2024-11-14 14:00:57.753 +02:00 [INF] Executed action lr_thirteen.Controllers.LoggerController.Index (lr_thirteen) in 97.8177ms
+2024-11-14 14:00:57.754 +02:00 [INF] Executed endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 14:00:57.755 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-11-14 14:00:57.756 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-11-14 14:00:57.759 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/ - 200 null text/html; charset=utf-8 185.5867ms
+2024-11-14 14:00:57.988 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/_vs/browserLink - null null
+2024-11-14 14:00:57.988 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-14 14:00:58.001 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 13.87ms
+2024-11-14 14:00:58.018 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.2925ms
+2024-11-14 14:00:58.029 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/favicon.ico - null null
+2024-11-14 14:00:58.035 +02:00 [DBG] The file transmission was cancelled
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Http.SendFileFallback.SendFileAsync(Stream destination, String filePath, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.SendFileResponseExtensions.SendFileAsyncCore(HttpResponse response, String fileName, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.SendFileResponseExtensions.SendFileAsyncCore(HttpResponse response, IFileInfo file, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileContext.SendAsync()
+2024-11-14 14:00:58.039 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\5 SEMESTR\ASP.NET\lr_thirteen\wwwroot\favicon.ico'
+2024-11-14 14:00:58.040 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/favicon.ico - 499 5430 image/x-icon 11.5989ms
+2024-11-14 14:00:59.197 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/Logger/SeriLogException - null null
+2024-11-14 14:00:59.202 +02:00 [DBG] The request path /Logger/SeriLogException does not match a supported file type
+2024-11-14 14:00:59.203 +02:00 [DBG] 1 candidate(s) found for the request path '/Logger/SeriLogException'
+2024-11-14 14:00:59.204 +02:00 [DBG] Endpoint 'lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen)' with route pattern '{controller=Logger}/{action=Index}/{id?}' is valid for the request path '/Logger/SeriLogException'
+2024-11-14 14:00:59.205 +02:00 [DBG] Request matched endpoint 'lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen)'
+2024-11-14 14:00:59.206 +02:00 [INF] Executing endpoint 'lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen)'
+2024-11-14 14:00:59.208 +02:00 [INF] Route matched with {action = "SeriLogException", controller = "Logger"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult SeriLogException() on controller lr_thirteen.Controllers.LoggerController (lr_thirteen).
+2024-11-14 14:00:59.209 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-11-14 14:00:59.210 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 14:00:59.211 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-11-14 14:00:59.212 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-11-14 14:00:59.213 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 14:00:59.215 +02:00 [DBG] Executing controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 14:00:59.215 +02:00 [DBG] Executed controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 14:00:59.244 +02:00 [ERR] Some error!
+System.InvalidOperationException: This is a test exception.
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in C:\5 SEMESTR\ASP.NET\lr_thirteen\Controllers\LoggerController.cs:line 45
+2024-11-14 14:00:59.252 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[Index],controller=[Logger])
+2024-11-14 14:00:59.253 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in  and 
+2024-11-14 14:00:59.254 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /
+2024-11-14 14:00:59.256 +02:00 [INF] Executing RedirectResult, redirecting to /.
+2024-11-14 14:00:59.256 +02:00 [INF] Executed action lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen) in 41.9243ms
+2024-11-14 14:00:59.257 +02:00 [INF] Executed endpoint 'lr_thirteen.Controllers.LoggerController.SeriLogException (lr_thirteen)'
+2024-11-14 14:00:59.258 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/Logger/SeriLogException - 302 0 null 61.3946ms
+2024-11-14 14:00:59.266 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/ - null null
+2024-11-14 14:00:59.268 +02:00 [DBG] The request path / does not match a supported file type
+2024-11-14 14:00:59.269 +02:00 [DBG] 1 candidate(s) found for the request path '/'
+2024-11-14 14:00:59.269 +02:00 [DBG] Endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)' with route pattern '{controller=Logger}/{action=Index}/{id?}' is valid for the request path '/'
+2024-11-14 14:00:59.271 +02:00 [DBG] Request matched endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 14:00:59.271 +02:00 [INF] Executing endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 14:00:59.272 +02:00 [INF] Route matched with {action = "Index", controller = "Logger"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lr_thirteen.Controllers.LoggerController (lr_thirteen).
+2024-11-14 14:00:59.273 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-11-14 14:00:59.274 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 14:00:59.275 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-11-14 14:00:59.276 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-11-14 14:00:59.277 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-11-14 14:00:59.278 +02:00 [DBG] Executing controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 14:00:59.279 +02:00 [DBG] Executed controller factory for controller lr_thirteen.Controllers.LoggerController (lr_thirteen)
+2024-11-14 14:00:59.280 +02:00 [DBG] View lookup cache hit for view 'Index' in controller 'Logger'.
+2024-11-14 14:00:59.280 +02:00 [INF] Executing ViewResult, running view Index.
+2024-11-14 14:00:59.281 +02:00 [DBG] The view path '/Views/Logger/Index.cshtml' was found in 1.3253ms.
+2024-11-14 14:00:59.283 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[DefaultLogger],controller=[Logger])
+2024-11-14 14:00:59.283 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/DefaultLogger and 
+2024-11-14 14:00:59.284 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/DefaultLogger
+2024-11-14 14:00:59.286 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogLogger],controller=[Logger])
+2024-11-14 14:00:59.286 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogLogger and 
+2024-11-14 14:00:59.287 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogLogger
+2024-11-14 14:00:59.288 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogCustom],controller=[Logger])
+2024-11-14 14:00:59.289 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogCustom and 
+2024-11-14 14:00:59.291 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogCustom
+2024-11-14 14:00:59.292 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (action=[SeriLogException],controller=[Logger])
+2024-11-14 14:00:59.293 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Logger/SeriLogException and 
+2024-11-14 14:00:59.294 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Logger/SeriLogException
+2024-11-14 14:00:59.295 +02:00 [DBG] View lookup cache hit for view '_Layout' in controller 'Logger'.
+2024-11-14 14:00:59.297 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2024-11-14 14:00:59.298 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home and 
+2024-11-14 14:00:59.299 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home
+2024-11-14 14:00:59.300 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2024-11-14 14:00:59.301 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home and 
+2024-11-14 14:00:59.302 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home
+2024-11-14 14:00:59.303 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-11-14 14:00:59.304 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2024-11-14 14:00:59.305 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home/Privacy
+2024-11-14 14:00:59.306 +02:00 [DBG] Found the endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-11-14 14:00:59.307 +02:00 [DBG] Successfully processed template {controller=Logger}/{action=Index}/{id?} for Route: {controller=Logger}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2024-11-14 14:00:59.309 +02:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Logger}/{action=Index}/{id?}"] with result /Home/Privacy
+2024-11-14 14:00:59.310 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-11-14 14:00:59.311 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-11-14 14:00:59.311 +02:00 [INF] Executed ViewResult - view Index executed in 31.6125ms.
+2024-11-14 14:00:59.312 +02:00 [INF] Executed action lr_thirteen.Controllers.LoggerController.Index (lr_thirteen) in 34.19ms
+2024-11-14 14:00:59.313 +02:00 [INF] Executed endpoint 'lr_thirteen.Controllers.LoggerController.Index (lr_thirteen)'
+2024-11-14 14:00:59.313 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-11-14 14:00:59.314 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-11-14 14:00:59.315 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/ - 200 null text/html; charset=utf-8 49.9217ms
+2024-11-14 14:00:59.363 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/_vs/browserLink - null null
+2024-11-14 14:00:59.363 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7258/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-14 14:00:59.368 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 5.1769ms
+2024-11-14 14:00:59.377 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7258/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.2413ms
+2025-01-28 02:35:38.255 +02:00 [INF] 
+=== SeriLog Logger "Log.Information" ===
+
+2025-01-28 02:35:38.273 +02:00 [WRN] 
+=== SeriLog Logger "Log.Warning" ===
+
+2025-01-28 02:35:38.274 +02:00 [ERR] 
+=== SeriLog Logger "Log.Error" ===
+
+2025-01-28 02:35:38.276 +02:00 [DBG] 
+=== SeriLog Logger "Log.Debug" ===
+
+2025-01-28 02:35:38.277 +02:00 [FTL] 
+=== SeriLog Logger "Log.Fatal" ===
+
+2025-01-28 02:35:39.103 +02:00 [INF] User Anon logged in at: "2025-01-28T02:35:39.1029793+02:00"
+2025-01-28 02:35:39.110 +02:00 [WRN] User Anon has the role: Guest
+2025-01-28 02:35:39.111 +02:00 [INF] User Anon is a superuser - false
+2025-01-28 02:35:39.113 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2025-01-28 02:35:39.117 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2025-01-28T02:35:39.1178405+02:00"
+2025-01-28 02:35:40.145 +02:00 [INF] User Anon logged in at: "2025-01-28T02:35:40.1457266+02:00"
+2025-01-28 02:35:40.147 +02:00 [WRN] User Anon has the role: Guest
+2025-01-28 02:35:40.147 +02:00 [INF] User Anon is a superuser - false
+2025-01-28 02:35:40.148 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2025-01-28 02:35:40.150 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2025-01-28T02:35:40.1500080+02:00"
+2025-01-28 02:35:40.814 +02:00 [INF] User Anon logged in at: "2025-01-28T02:35:40.8149428+02:00"
+2025-01-28 02:35:40.816 +02:00 [WRN] User Anon has the role: Guest
+2025-01-28 02:35:40.817 +02:00 [INF] User Anon is a superuser - false
+2025-01-28 02:35:40.817 +02:00 [DBG] {"Name":"Anon","Role":"Guest","IsAdmin":false}
+2025-01-28 02:35:40.818 +02:00 [FTL] Some User Anon actions caused a fatal error at: "2025-01-28T02:35:40.8186596+02:00"
+2025-01-28 02:35:41.862 +02:00 [ERR] Some error!
+System.InvalidOperationException: This is a test exception.
+   at lr_thirteen.Controllers.LoggerController.SeriLogException() in D:\asp code\ASP.NET-lr_thirteen\Controllers\LoggerController.cs:line 45

@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+@model lr_twelve_one.Models.User
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<form asp-action="create" asp-controller="UserInfo" style="height: 100vh; width: 100vw; display: flex; flex-direction: column; gap: 3.5vh; align-items: center; justify-content: center">
+    <div style="display: flex; flex-direction: column; gap: 0.5vh; width: 10vw; height: 5vh;">
+        <label asp-for="FirstName">First Name:</label><br />
+        <input type="text" asp-for="FirstName" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 0.5vh; width: 10vw; height: 5vh;">
+        <label asp-for="LastName">Last Name:</label><br />
+        <input type="text" asp-for="LastName" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 0.5vh; width: 10vw; height: 5vh;">
+        <label asp-for="Age">Age:</label><br />
+        <input type="number" asp-for="Age" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 0.5vh; width: 10vw; height: 10vh;">
+        <input type="submit" value="Add to DB" />
+    </div>
+    <a asp-action="Index">Check UserDB</a>
+</form>
